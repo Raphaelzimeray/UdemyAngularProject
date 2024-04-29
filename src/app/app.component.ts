@@ -8,7 +8,8 @@ import { Component } from '@angular/core';
 export class AppComponent {
   paragraphId = 0;
 
-  text ='Hey guys';
+  text ='coucou';
 
-  
+  displayText = false;
+
 }
